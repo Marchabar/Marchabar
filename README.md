@@ -4,7 +4,7 @@
 
 ## :man_technologist: About Me :
 <div align="center">
-  <i> I'm Marco,a Software Engineering student at University of Seville, with a fervent interest in the coding world. You can reach me at :mailbox: marchabar1@alum.us.es</i>
+  <i> I'm Marco,a Software Engineering student at University of Seville, with a fervent interest in the coding world. You can reach me at <br> :mailbox: marchabar1@alum.us.es</i></br>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
