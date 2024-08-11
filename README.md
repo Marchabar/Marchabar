@@ -4,8 +4,7 @@
 
 ## :man_technologist: About Me :
 <div align="center">
-  <i> I'm Marco, a Software Engineer with a passion for the coding world. You can reach me at <br> :mailbox: marchabar1@alum.us.es</i></br>
-  <i> You can check my web portfolio at: https://marchabar.github.io/web-portfolio/</i>
+  <i> I'm Marco, a Software Engineer with a passion for the coding world. You can reach me at <br> :mailbox: marco.chasco@gmail.com</i></br>
 </div>
 
 
