@@ -4,7 +4,7 @@
 
 ## :man_technologist: About Me :
 <div align="center">
-  <i> I'm Marco, a Software Engineer with a passion for the coding world. You can reach me at <br> :mailbox: marcocb.professional@gmail.com</i></br>
+  <i> I'm Marco, a Software Engineer with a passion for technology. You can reach me at <br> :mailbox: marcocb.professional@gmail.com</i></br>
 </div>
 
 
